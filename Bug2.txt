@@ -1,0 +1,11 @@
+Summary: When click on "Посчитать" button, program is showing "NaN" years
+
+Steps to reproduce:
+1. Go to tutu-ru.github.io site
+2. Click on "Посчитать" button
+
+Expected result:
+Error message: "Insert date of birth"
+
+Actual result:
+Result "NaN лет" 

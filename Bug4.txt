@@ -1,0 +1,10 @@
+Summary: Letter "о" in the placeholder and "Посчитать" button, has wrong text size
+
+Steps to reproduce:
+1. Go to tutu-ru.github.io site
+
+Expected result:
+Letter "о" in the placeholder and "Посчитать" button, has same text size as in the rest of the text
+
+Actual result:
+Letter "о" in the placeholder and "Посчитать" button, has wrong text size

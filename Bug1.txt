@@ -1,0 +1,11 @@
+Summary: User can input future date in the "date of birth" field
+
+Steps to reproduce:
+1. Go to tutu-ru.github.io
+2. Input any future date (example: 12.06.2680)
+
+Expected result:
+Can't input future date
+
+Actual result:
+User can input future date

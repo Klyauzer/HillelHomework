@@ -1,0 +1,10 @@
+Summary: Placeholder "дата рождения" start with lowercase letter
+
+Steps to reproduce:
+1. Go to tutu-ru.github.io site
+
+Expected result:
+Placeholder start with uppercase letter "Дата рождения"
+
+Actual result:
+Placeholder start with lowercase letter "дата рождения"
